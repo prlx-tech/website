@@ -17,7 +17,7 @@ export const Hero = () => (
             </h1>
             <p className="text-xl leading-relaxed tracking-tight text-muted-foreground max-w-md text-left">
               We build advanced spatial perception systems for real-life
-              autonomous robots operating where failure isn't an option.
+              autonomous robots operating where failure isn&apos;t an option.
             </p>
           </div>
           <div className="flex flex-row gap-4">
